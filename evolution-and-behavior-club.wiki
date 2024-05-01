@@ -4,8 +4,15 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-The **Evolution And Behavior Club** was a club that existed from the year 2013 to the year 2020, with most meetings happening //in person// mostly in downtown Vancouver.
-One of the main components of the **Evolution And Behavior Club** was a number of //reading-groups// that focused on reading and discussing books and scholarly papers on **evolution** and **behavior** (and in particular **human behavior**).
+The **Evolution And Behavior Club** was a club that existed from the year 2013 to the year 2020.
+The **Evolution And Behavior Club** focused on **evolution** and **behavior** (and in particular **human behavior**).
+
+The main formats of the **Evolution And Behavior Club** were the //reading-groups// and //social-events//.
+
+The **Evolution And Behavior Club** had (a small number of) //reading-groups// that focused on reading and discussing books and scholarly papers on **evolution** and **behavior** (and in particular **human behavior**).
+
+Most of the discussions were //in person//, with most meetings happening //in person// mostly in downtown Vancouver.
+Although when the [[covid-19-lockdown]] started happening, and our usual meeting locations were forced to shut-down, the meetings //temporarily// moved online, over the Internet, using //video chat//.
 
 §§ Core Members
 
